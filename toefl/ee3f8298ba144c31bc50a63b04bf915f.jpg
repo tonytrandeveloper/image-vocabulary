@@ -1,0 +1,1232 @@
+﻿<script type="text/javascript">
+if (screen.width <= 699) {
+	document.location = "/app.php";
+}
+</script>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>StudyTiengAnh.vn | Học Tiếng Anh Online | Học Tiếng Anh Trực tuyến </title>
+		<meta name="description" content="Website học Tiếng Anh online trực tuyến số 1 tại Việt Nam. Hơn 14000+ câu hỏi, 500+ bộ đề luyện thi Tiếng Anh có đáp án.Truy cập ngay chỉ với 99k/ 1 năm, Học Tiếng Anh online thoải mái không giới hạn tài liệu">
+		    <meta property="og:title" content="StudyTienganh.vn | Học Tiếng Anh Online | Học Tiếng Anh Trực tuyến " />
+    <meta property="og:type" content="website" />
+	<meta property="og:image" content="/css/img/toeic123.png" />
+    <link href="/css/style.css?v=1647153545" rel="stylesheet">
+    <link href="/css/global.css?v=1647153545" rel="stylesheet">
+    <link href="/css/meter.css?v=1647153545" rel="stylesheet">
+    <link href="/js/jQueryUI/my.css" rel="stylesheet">
+    <link href="/css/font-awesome.min.css?v=1.1" rel="stylesheet">
+    <link href="/css/responsive.css?v=1.13" rel="stylesheet">
+	<meta name="apple-itunes-app" content="app-id=">
+    <meta name="google-play-app" content="app-id=vn.studytienganh">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="/js/smartbanner/smart-app-banner.css" type="text/css" media="screen">
+    <link rel="apple-touch-icon" href="/img/app.webp">
+    <link rel="android-touch-icon" href="/img/app.webp" />
+	
+    <script src="/js/jQuery/jQuery-2.1.4.min.js"></script>
+	<link rel="icon" href="/favicon.ico?v=1.1" type="image/x-icon"/>
+    <!-- jQueryUI -->
+    <script src="/js/jQueryUI/jquery-ui.min.js"></script>
+    <script src="/js/jQueryUI/jquery.ui.touch-punch.min.js"></script>
+	<!-- Pagination -->
+    <script src="/js/pagination/jquery.twbsPagination.js"></script>
+	<!-- Autokey -->
+    <script src="/js/autokey.js"></script>
+    <!-- JS -->
+    <script src="/js/main.js"></script>
+    <script src="/js/login.js"></script>
+    <script src="/js/comment.js"></script>
+	<!-- smartbanner -->
+	<script src="/js/smartbanner/smart-app-banner.js"></script>
+    <!-- Facebook Pixel Code Nguyễn Mai Hồng Phúc -->
+    <script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+      n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+      if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+      n.queue=[];t=b.createElement(e);t.async=!0;
+      t.src=v;s=b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t,s)}(window, document,'script',
+      'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '733688696973303');
+      fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+      src="https://www.facebook.com/tr?id=733688696973303&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- End Facebook Pixel Code -->
+    <!-- Facebook Pixel Code -->
+    <script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '2238019159655309');
+    fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=2238019159655309&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- End Facebook Pixel Code Phuc Account-->
+    <!-- Facebook Pixel Code Phuc account -->
+    <script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '733688696973303');
+    fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=733688696973303&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- End Facebook Pixel Code -->
+    
+    <!-- Global site tag (gtag.js) - Google Ads: 860051165 -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=AW-860051165"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'AW-860051165');
+	</script>
+    
+</head>
+
+<body>
+    <!-- start top -->
+    <div class="full-width green-bg menu-top">
+        <div class="width">
+            <ul class="menu-left">
+                <li><i class="fa fa-phone-square" style="font-size: 14px;"></i>&nbsp;&nbsp;Hotline:&nbsp;0377.867.319</li>
+                <li><i class="fa fa-envelope" style="font-size: 13px;"> </i><a href="mailto:info@studytiengnhat.vn">&nbsp;&nbsp;studytienganh.vn@gmail.com</a></li>
+                <li><a href="https://www.facebook.com/studytienganh/"><i class="fa fa-facebook"> </i></a></li>
+                <li><a href="#"><i class="fa fa-twitter"> </i></a></li>
+                <li><a href="#"><i class="fa fa-google-plus"> </i></a></li>
+            </ul>
+            <ul class="menu-right">
+                <li><a href="https://www.studyphim.vn" target="_blank">Học Tiếng Anh Qua Phim</a></li>
+                <li><a href="/page/7">Privacy Policy</a></li>
+                <li><a href="">Liên hệ</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="width logo-bar">
+        <ul class="logo-left">
+            <li>
+            <a class="" href="/"><i class="fa fa-th-list"></i>&nbsp;&nbsp;DANH MỤC</a>
+                <ul class="sub-ul">
+                     <!--<li>
+                        <ul>
+                            <li class="title"><a href="/">HOME</a></li>
+                            <li><a href="/">Trang chủ</a></li>
+
+
+
+                        </ul>
+                    </li>-->
+                    <li>
+                        <ul>
+                            <li class="title"><a href="/category/4">TỪ VỰNG TIẾNG ANH</a></li>
+                            <li><a href="/category/34">Từ vựng tiếng anh thông dụng</a><span class="vip">5000 Từ</span></li>
+                            <li><a href="/category/69">Từ vựng tiếng anh theo chủ đề<span class="vip">2500 Từ</span></a></li>
+                            <li><a href="/category/70">Từ vựng luyện thi TOEIC</a><span class="vip">600 Từ</span></a></li></li>
+                            <li><a href="/category/80">Từ vựng luyện thi SAT</a><span class="vip">800 Từ</span></a></li></li>
+                            <li><a href="/category/71">Từ vựng luyện thi IELTS</a><span class="vip">800 Từ</span></a></li></li>
+                            <li><a href="/category/72">Từ vựng luyện thi TOEFL</a><span class="vip">800 Từ</span></a></li></li>
+                            <li><a href="/category/101">Từ vựng luyện thi Đại Học - Cao Đẳng</a><span class="vip">Updating</span></a></li></li>
+                            <br>
+                            <li class="title"><a href="/category/4">ĐỀ THI TIẾNG ANH</a></li>
+                            <li><a href="/category/36">Đề thi thpt quốc gia</a><span class="vip">48 đề</span></li></li>
+                            <li><a href="/category/92">Đề thi TOEIC</a><span class="vip">20 đề</span></li>
+                            <li>Đề thi Violympic</li>
+                            <li>Đề thi IOE</li>
+
+                        </ul>
+                    </li>
+                    <li>
+                        <ul>
+                            <li class="title"><a href="/category/34">LUYỆN NÓI TIẾNG ANH</li>
+                            <li><a href="/category/59">Luyện nói tiếng anh theo cấu trúc</a><span class="vip">880 câu</span></a></li></li>
+                            <li><a href="/category/64">Luyện nói tiếng anh theo chủ đề</a><span class="vip">170 câu</span></a></li></li>
+                            <li><a href="/category/67">Luyện nói tiếng anh theo từ vựng</a><span class="vip">50.000 câu</span></a></li></li>
+                            <li><a href="/category/68">IDIOM tiếng anh</a><span class="vip">Updating</span></a></li></li>
+
+                            <br><br><br><br><br><br><br>
+                            <li class="title"><a href="/category/38">TIẾNG ANH HÀNG NGÀY</a></li>
+                            <li><a href="/category/38">Tiếng anh qua tin tức</a></li>
+                            <li><a href="http://www.studyphim.vn">Tiếng anh qua phim</a><span class="vip">99.000 VNĐ</span></a></li>
+                            <li><a href="http://www.studynhac.vn">Tiếng anh qua bài hát</li>
+
+                        </ul>
+                    </li>
+                    <li>
+                        <ul>
+                            <li class="title"><a href="/category/5">NGỮ PHÁP TIẾNG ANH</a></li>
+                            <li><a href="/category/65">Ngữ pháp tiếng anh cơ bản</a><span class="vip">50 chủ điểm</span></a></li></li>
+                            <li><a href="/category/99">Ngữ pháp tiếng anh giao tiếp</a><span class="vip">134 chủ điểm</span></a></li></li>
+                            <li><a href="/category/98">Ngữ pháp tiếng anh ôn thi đại học</a><span class="vip">27 chủ điểm</span></a></li></li>
+                            <li><a href="/category/74">12 thì trong tiếng anh</a><span class="vip">12 Thì</span></a></li></li>
+                            <br><br><br><br><br><br><br>
+                            <li class="title"><a href="/category/2">TIẾNG ANH GIAO TIẾP</a></li>
+                            <li><a href="/category/81">Tiếng anh giao tiếp beginner</a></li>
+                            <li><a href="/category/82">Tiếng anh giao tiếp elementary</a></li>                             
+                        
+                        </ul>
+                    </li>
+                    <br>                    
+                    <li>
+                        <ul>
+                            <li class="title"><a href="/category/3">LUYỆN NGHE TIẾNG ANH</a></li>
+                            <li><a href="/category/62">Luyện nghe hội thoại tiếng anh</a><span class="vip">101 bài</span></li>
+                            <li><a href="/category/76">Luyện nghe tiếng anh theo chủ đề</a><span class="vip">438 bài</span></li>
+                            <li><a href="/category/75">Luyện nghe đoạn văn tiếng anh</a><span class="vip">569 bài</span></li>
+                        </ul>
+                        <br><br><br><br><br><br><br><br><br><br>
+                        <ul>
+                         <li class="title"><a href="/category/12">TIẾNG ANH THEO LỚP</a></li>
+                            <li><a href="/category/45">Tiếng anh lớp 1</a></li>
+                            <li><a href="/category/46">Tiếng anh lớp 2</a></li>  
+                            <li><a href="/category/47">Tiếng anh lớp 3</a></li>  
+                            <li><a href="/category/48">Tiếng anh lớp 4</a></li>
+                            <li><a href="/category/49">Tiếng anh lớp 5</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                      
+                    </li> 
+                  
+                    <br>
+
+              
+                                                                           
+                </ul>
+            </li>
+            <li><a class="" href="/"><i class=""></i>|&nbsp;&nbsp;PHƯƠNG PHÁP</a></li>
+			<li><a href="/vip-upgrade">|&nbsp;&nbsp;<span class="vip">&nbsp; NẠP VIP &nbsp;</span></a></li>
+
+        </ul>
+        <ul class="logo-middle">
+			<a href="/"><img src="/img/logo2.png" height="30"/></a>
+        </ul>
+        <ul class="logo-right">
+			            <li><a href="#" class="login_open_modal">Đăng ký</a></li><li><a href="#" class="login_open_modal">Đăng nhập</a></li>
+			        </ul>
+    </div>
+	    <div class="full-width main-banner">
+            <h3>Học Tiếng Anh online hiệu quả !</h3>
+			<h4><i class="fa fa-check"></i> Website Học Tiếng Anh online số 1 tại Việt Nam </h4>
+            <h4><i class="fa fa-check"></i> Gần 5.000 từ vựng, 50.000 cặp câu luyện nói tiếng anh </h4>
+			<h4><i class="fa fa-check"></i> Truy cập ngay với 99.000 VNĐ / 1 năm, học Tiếng Anh online thoải mái không giới hạn tài liệu</h4>
+            <a href="#" class="login_open_modal">Đăng ký ngay</a>
+            <a href="/app.php" class="download-app" target="_blank">Tải App Mobile</a>
+    </div>
+	    <!-- end top -->
+	
+	<div class="width content-container">        		<!-- left sidebar -->
+        <div class="sidebar-left">    
+            <a class="list l2" href="/category/4" alt="Từ vựng tiếng anh">&nbsp;</a>
+            <a class="list l5" href="/category/8" alt="Luyện nói tiếng anh">&nbsp;</a>
+            <a class="list l3" href="/category/3" alt="Luyện nghe tiếng anh">&nbsp;</a>
+            <a class="list l4" href="/category/5" alt="Ngữ pháp tiếng anh">&nbsp;</a> 
+			<!--<ul>
+			  <li><menu><a class="active" href="/"><i class="fa fa-home fa-lg" style="font-size: 15px;"></i>&nbsp;&nbsp; Trang chủ </a></menu></li>
+			 <li><menu><a href="/category/4"><i class="fa fa-trello" style="font-size: 15px;"></i>&nbsp;&nbsp; Từ vựng tiếng anh</a></menu></li>
+			  <li><menu><a href="/category/8"><i class="fa fa-microphone" style="font-size: 15px;"></i>&nbsp;&nbsp;&nbsp;  Cặp câu tiếng anh </a></menu></li>
+			  <li><menu><a href="/category/3"><i class="fa fa-volume-up" style="font-size: 15px;"></i>&nbsp;&nbsp; Luyện nghe tiếng anh </a></menu></li> 
+			  <li><menu><a href="/category/5"><i class="fa fa-tasks" style="font-size: 15px;"></i>&nbsp;&nbsp; Ngữ pháp tiếng anh <span class="vip"></span></a></menu></li>	
+			</ul>--> 
+				                    
+            <!--<a title="Học tiếng Anh trực tuyến" href="https://www.studytienganh.vn" target="_blank"><img alt="Học tiếng anh" src="/img/left-sidebar.png" class="ads"></img></a>-->
+            
+			<div class="sidebar" style="width: 223px;">
+			<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+			<!-- Sidebar-Ads-Home -->			
+			<ins class="adsbygoogle"
+			     style="display:block"
+			     data-ad-client="ca-pub-3491591331712194"
+			     data-ad-slot="7589011522"
+			     data-ad-format="auto"
+			     data-full-width-responsive="true"></ins>
+			<script>
+			     (adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+			</div>
+
+			<script type="text/javascript">
+	            $(function() {
+	              var $window = $(window);
+	              var $sidebar = $(".sidebar");
+	              var $sidebarTop = $sidebar.position().top;
+	              var $sidebarHeight = $sidebar.height();
+	              var $footer = $('.footer');
+	              var $footerTop = $footer.position().top;
+
+	              $window.scroll(function(event) {
+	                $sidebar.addClass("fixed");
+	                var $scrollTop = $window.scrollTop();
+	                var $topPosition = Math.max(0, $sidebarTop - $scrollTop);
+	                
+	                if ($scrollTop + $sidebarHeight > $footerTop) {
+	                  var $topPosition = Math.min($topPosition, $footerTop - $scrollTop - $sidebarHeight);
+	                }
+
+	                $sidebar.css("top", $topPosition);
+	              });
+	            });
+	         </script>
+			
+        </div>
+        <!-- end left sidebar -->        <!-- content -->
+        <div class="content">
+						
+			<!-- Đề thi -->
+            <div class="content-box">
+                <div class="header">
+                    <div class="h3-container">
+                        <a href="/category/4"><h3>Từ Vựng Tiếng Anh</h3></a>                      
+                        <a class="learn-all" href="/category/4">Xem tất cả &raquo;</a>
+                    </div>
+                </div>
+				
+				<a href="/category/34"><h3 class="sub-header"><i class="fa fa-file-text"></i>&nbsp;&nbsp; Từ vựng tiếng anh thông dụng <span class="vip">5000 TỪ VỰNG</span><span class="vip">358 BÀI</span> </h3></a>
+                <div class="box">
+				<div class="box-item">
+	<a href="/exam/824">
+		<div class="img" style="background:url(/upload/2017/11/43519.png); background-size: cover;"><p>0/90</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>VOCA 4981 - 5000</h4>
+		<a class="learn" href='/exam/824'>Học ngay</a>
+			</a>
+</div><div class="box-item">
+	<a href="/exam/823">
+		<div class="img" style="background:url(/upload/2017/11/43520.png); background-size: cover;"><p>0/90</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>VOCA 4966 - 4980</h4>
+		<a class="learn" href='/exam/823'>Học ngay</a>
+			</a>
+</div><div class="box-item">
+	<a href="/exam/822">
+		<div class="img" style="background:url(/upload/2017/11/43521.png); background-size: cover;"><p>0/90</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>VOCA 4951 - 4965</h4>
+		<a class="learn" href='/exam/822'>Học ngay</a>
+			</a>
+</div><div class="box-item">
+	<a href="/exam/821">
+		<div class="img" style="background:url(/upload/2017/11/43522.png); background-size: cover;"><p>0/90</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>VOCA 4936 - 4950</h4>
+		<a class="learn" href='/exam/821'>Học ngay</a>
+			</a>
+</div>                </div>
+				<div class='paging viewall'><a href="/category/34">Xem tất cả &raquo;</a></div>				<a href="/category/69"><h3 class="sub-header"><i class="fa fa-file-text"></i>&nbsp;&nbsp; Từ vựng tiếng anh theo chủ đề <span class="vip">250 Chủ đề</span><span class="vip">2500 TỪ VỰNG</span></h3></a>
+                <div class="box">
+				<div class="box-item">
+	<a href="/exam/56">
+		<div class="img" style="background:url(/upload/2017/09/621.png); background-size: cover;"><p>0/7</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Chủ đề 1: MÀU SẮC</h4>
+		<a class="learn" href='/exam/56'>Học ngay</a>
+			</a>
+</div><div class="box-item">
+	<a href="/exam/57">
+		<div class="img" style="background:url(/upload/2017/09/622.png); background-size: cover;"><p>0/20</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Chủ đề 2: RAU QUẢ</h4>
+		<a class="learn" href='/exam/57'>Học ngay</a>
+			</a>
+</div><div class="box-item">
+	<a href="/exam/58">
+		<div class="img" style="background:url(/upload/2017/09/623.png); background-size: cover;"><p>0/20</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Chủ đề 3: TRÁI CÂY</h4>
+		<a class="learn" href='/exam/58'>Học ngay</a>
+			</a>
+</div><div class="box-item">
+	<a href="/exam/59">
+		<div class="img" style="background:url(/upload/2017/11/43523.png); background-size: cover;"><p>0/20</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Chủ đề 4: NHÀ TẮM</h4>
+		<a class="learn" href='/exam/59'>Học ngay</a>
+			</a>
+</div>                </div>
+				<div class='paging viewall'><a href="/category/69">Xem tất cả &raquo;</a></div>			
+				<a href="/category/70"><h3 class="sub-header"><i class="fa fa-file-text"></i>&nbsp;&nbsp; Từ vựng luyện thi TOEIC <span class="vip">600 từ</span><span class="vip">51 bài</span></h3></a>
+                <div class="box">
+				<div class="box-item">
+	<a href="/exam/52">
+		<div class="img" style="background:url(/upload/2018/01/76241.png); background-size: cover;"><p>0/12</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Bài 1: Contract</h4>
+		<a class="learn" href='/exam/52'>Học ngay</a>
+			</a>
+</div><div class="box-item">
+	<a href="/exam/53">
+		<div class="img" style="background:url(/upload/2017/09/619.png); background-size: cover;"><p>0/12</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Bài 2: Marketing</h4>
+		<a class="learn" href='/exam/53'>Học ngay</a>
+			</a>
+</div><div class="box-item">
+	<a href="/exam/54">
+		<div class="img" style="background:url(/upload/2017/09/616.jpg); background-size: cover;"><p>0/12</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Bài 3: Warranties</h4>
+		<a class="learn" href='/exam/54'>Học ngay</a>
+			</a>
+</div><div class="box-item">
+	<a href="/exam/55">
+		<div class="img" style="background:url(/upload/2017/09/617.png); background-size: cover;"><p>0/12</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Bài 4: Business Plan</h4>
+		<a class="learn" href='/exam/55'>Học ngay</a>
+			</a>
+</div>                </div>
+				<div class='paging viewall'><a href="/category/70">Xem tất cả &raquo;</a></div>	
+				<a href="/category/71"><h3 class="sub-header"><i class="fa fa-file-text"></i>&nbsp;&nbsp; Từ vựng luyện thi IELTS <span class="vip">900 từ</span><span class="vip">89 bài</span></h3></a>
+                <div class="box">
+				<div class="box-item">
+	<a href="/exam/10052">
+		<div class="img" style="background:url(/upload/2017/12/68975.png); background-size: cover;"><p>0/60</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>IELTS 891-900</h4>
+		<a class="learn" href='/exam/10052'>Học ngay</a>
+			</a>
+</div><div class="box-item">
+	<a href="/exam/10051">
+		<div class="img" style="background:url(/upload/2017/12/68975.png); background-size: cover;"><p>0/60</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>IELTS 881-890</h4>
+		<a class="learn" href='/exam/10051'>Học ngay</a>
+			</a>
+</div><div class="box-item">
+	<a href="/exam/10050">
+		<div class="img" style="background:url(/upload/2017/12/68975.png); background-size: cover;"><p>0/60</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>IELTS 871-880</h4>
+		<a class="learn" href='/exam/10050'>Học ngay</a>
+			</a>
+</div><div class="box-item">
+	<a href="/exam/10049">
+		<div class="img" style="background:url(/upload/2017/12/68975.png); background-size: cover;"><p>0/60</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>IELTS 861-870</h4>
+		<a class="learn" href='/exam/10049'>Học ngay</a>
+			</a>
+</div>                </div>
+				<div class='paging viewall'><a href="/category/71">Xem tất cả &raquo;</a></div>					
+	
+            </div>
+			<!-- end đề thi -->
+			<!-- Đề thi -->
+            <div class="content-box">
+                <div class="header">
+                    <div class="h3-container">
+                        <a href="/category/8"><h3>Luyện Nói Tiếng Anh</h3></a>                      
+                        <a class="learn-all" href="/category/8">Xem tất cả &raquo;</a>
+                    </div>
+                </div>
+				
+				<a href="/category/59"><h3 class="sub-header"><i class="fa fa-file-text"></i>&nbsp;&nbsp; Luyện nói tiếng anh theo cấu trúc<span class="vip">88 CẤU TRÚC</span><span class="vip">880 cặp câu</span></h3></a>
+                <div class="box">
+				<div class="box-item">
+	<a href="/exam/1096">
+		<div class="img" style="background:url(/upload/2017/11/25431.png); background-size: cover;"><p>0/30</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Bài 88: Rumor has it that + (subject + verb)</h4>
+		<a class="learn" href='/exam/1096'>Học ngay</a>
+			</a>
+</div><div class="box-item">
+	<a href="/exam/1095">
+		<div class="img" style="background:url(/upload/2017/11/25431.png); background-size: cover;"><p>0/30</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Bài 87: There&#39;s nothing + (subject) + can + (verb)</h4>
+		<a class="learn" href='/exam/1095'>Học ngay</a>
+			</a>
+</div><div class="box-item">
+	<a href="/exam/1094">
+		<div class="img" style="background:url(/upload/2017/11/25431.png); background-size: cover;"><p>0/30</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Bài 86: It&#39;s very kind of you to + (verb)</h4>
+		<a class="learn" href='/exam/1094'>Học ngay</a>
+			</a>
+</div><div class="box-item">
+	<a href="/exam/1093">
+		<div class="img" style="background:url(/upload/2017/11/25431.png); background-size: cover;"><p>0/30</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Bài 85: There&#39;s no way + (subject + verb)</h4>
+		<a class="learn" href='/exam/1093'>Học ngay</a>
+			</a>
+</div>                </div>
+				<div class='paging viewall'><a href="/category/59">Xem tất cả &raquo;</a></div>				
+				<a href="/category/64"><h3 class="sub-header"><i class="fa fa-file-text"></i>&nbsp;&nbsp; Luyện nói tiếng anh theo chủ đề <span class="vip">17 Chủ đề</span><span class="vip">170 cặp câu</span></h3></a>
+                <div class="box">
+				<div class="box-item">
+	<a href="/exam/30">
+		<div class="img" style="background:url(/upload/2017/11/30827.png); background-size: cover;"><p>0/45</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Những thành ngữ thông dụng (P1)</h4>
+		<a class="learn" href='/exam/30'>Học ngay</a>
+			</a>
+</div><div class="box-item">
+	<a href="/exam/31">
+		<div class="img" style="background:url(/upload/2017/11/30827.png); background-size: cover;"><p>0/45</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Những thành ngữ thông dụng (P2)</h4>
+		<a class="learn" href='/exam/31'>Học ngay</a>
+			</a>
+</div><div class="box-item">
+	<a href="/exam/32">
+		<div class="img" style="background:url(/upload/2017/11/30827.png); background-size: cover;"><p>0/45</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Những thành ngữ thông dụng (P3)</h4>
+		<a class="learn" href='/exam/32'>Học ngay</a>
+			</a>
+</div><div class="box-item">
+	<a href="/exam/33">
+		<div class="img" style="background:url(/upload/2017/11/30827.png); background-size: cover;"><p>0/45</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Những thành ngữ thông dụng (P4)</h4>
+		<a class="learn" href='/exam/33'>Học ngay</a>
+			</a>
+</div>                </div>
+				<div class='paging viewall'><a href="/category/64">Xem tất cả &raquo;</a></div>			
+				<a href="/category/67"><h3 class="sub-header"><i class="fa fa-file-text"></i>&nbsp;&nbsp; Luyện nói tiếng anh theo từ vựng <span class="vip">50.000 CẶP CÂU</span><span class="vip">5000 bài</span></h3></a>
+                <div class="box">
+				<div class="box-item">
+	<a href="/exam/17472">
+		<div class="img" style="background:url(/upload/2017/11/27868.png); background-size: cover;"><p>0/10</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>bài 5000: bolt</h4>
+		<a class="learn" href='/exam/17472'>Học ngay</a>
+			</a>
+</div><div class="box-item">
+	<a href="/exam/17471">
+		<div class="img" style="background:url(/upload/2017/11/27868.png); background-size: cover;"><p>0/10</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>bài 4999: devil</h4>
+		<a class="learn" href='/exam/17471'>Học ngay</a>
+			</a>
+</div><div class="box-item">
+	<a href="/exam/17470">
+		<div class="img" style="background:url(/upload/2017/11/27868.png); background-size: cover;"><p>0/10</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>bài 4998: sustainable</h4>
+		<a class="learn" href='/exam/17470'>Học ngay</a>
+			</a>
+</div><div class="box-item">
+	<a href="/exam/17469">
+		<div class="img" style="background:url(/upload/2017/11/27868.png); background-size: cover;"><p>0/10</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>bài 4997: flying</h4>
+		<a class="learn" href='/exam/17469'>Học ngay</a>
+			</a>
+</div>                </div>
+				<div class='paging viewall'><a href="/category/67">Xem tất cả &raquo;</a></div>							
+            </div>
+			<!-- end đề thi -->
+			<!-- Đề thi -->
+            <div class="content-box">
+                <div class="header">
+                    <div class="h3-container">
+                        <a href="/category/5"><h3></i>Ngữ Pháp Tiếng Anh</h3></a>                      
+                        <a class="learn-all" href="/category/5">Xem tất cả &raquo;</a>
+                    </div>
+                </div>
+				
+				<a href="/category/65"><h3 class="sub-header"><i class="fa fa-file-text"></i>&nbsp;&nbsp; Ngữ pháp tiếng anh cơ bản <span class="vip">150 Chủ điểm </span></h3></a>
+                <div class="box">
+				<div class="box-item">
+	<a href="/exam/26">
+		<div class="img" style="background:url(/upload/2017/11/28062.png); background-size: cover;"><p>0/5</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Cấu trúc chung của một câu trong tiếng Anh</h4>
+		<a class="learn" href='/exam/26'>Học ngay</a>
+			</a>
+</div><div class="box-item">
+	<a href="/exam/27">
+		<div class="img" style="background:url(/upload/2017/11/28062.png); background-size: cover;"><p>0/11</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Ngữ danh từ</h4>
+		<a class="learn" href='/exam/27'>Học ngay</a>
+			</a>
+</div><div class="box-item">
+	<a href="/exam/28">
+		<div class="img" style="background:url(/upload/2017/11/28062.png); background-size: cover;"><p>0/9</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Các thì hiện tại</h4>
+		<a class="learn" href='/exam/28'>Học ngay</a>
+			</a>
+</div><div class="box-item">
+	<a href="/exam/29">
+		<div class="img" style="background:url(/upload/2017/11/28062.png); background-size: cover;"><p>0/5</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Các thì quá khứ</h4>
+		<a class="learn" href='/exam/29'>Học ngay</a>
+			</a>
+</div>                </div>
+				<div class='paging viewall'><a href="/category/65">Xem tất cả &raquo;</a></div>				<a href="/category/74"><h3 class="sub-header"><i class="fa fa-file-text"></i>&nbsp;&nbsp; 12 thì trong tiếng anh <span class="vip">12 bài học </span></h3></a>
+                <div class="box">
+				<div class="box-item">
+	<a href="/exam/65">
+		<div class="img" style="background:url(/upload/2017/10/857.png); background-size: cover;"><p>0/1</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Thì Hiện Tại Đơn</h4>
+		<a class="learn" href='/exam/65'>Học ngay</a>
+			</a>
+</div><div class="box-item">
+	<a href="/exam/66">
+		<div class="img" style="background:url(/upload/2017/10/858.png); background-size: cover;"><p>0/1</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Thì hiện tại tiếp diễn</h4>
+		<a class="learn" href='/exam/66'>Học ngay</a>
+			</a>
+</div><div class="box-item">
+	<a href="/exam/67">
+		<div class="img" style="background:url(/upload/2017/10/859.png); background-size: cover;"><p>0/1</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Thì quá khứ đơn</h4>
+		<a class="learn" href='/exam/67'>Học ngay</a>
+			</a>
+</div><div class="box-item">
+	<a href="/exam/68">
+		<div class="img" style="background:url(/upload/2017/10/860.png); background-size: cover;"><p>0/1</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Thì quá khứ tiếp diễn</h4>
+		<a class="learn" href='/exam/68'>Học ngay</a>
+			</a>
+</div>                </div>
+				<div class='paging viewall'><a href="/category/74">Xem tất cả &raquo;</a></div>
+
+
+            </div>
+			<!-- end đề thi -->	
+			<!-- Đề thi -->
+            <div class="content-box">
+                <div class="header">
+                    <div class="h3-container">
+                        <a href="/category/3"><h3>Luyện Nghe Tiếng Anh</h3></a>                      
+                        <a class="learn-all" href="/category/3">Xem tất cả &raquo;</a>
+                    </div>
+                </div>
+				<a href="/category/76"><h3 class="sub-header"><i class="fa fa-file-text"></i>&nbsp;&nbsp; Luyện nghe tiếng anh theo chủ đề <span class="vip">151 CHỦ ĐỀ</span></h3></a>
+                <div class="box">
+				<div class="box-item">
+	<a href="/exam/10447">
+		<div class="img" style="background:url(/upload/2017/12/47990.png); background-size: cover;"><p>0/1</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Bài 438: Zoos</h4>
+		<a class="learn" href='/exam/10447'>Học ngay</a>
+			</a>
+</div><div class="box-item">
+	<a href="/exam/10446">
+		<div class="img" style="background:url(/upload/2017/12/47990.png); background-size: cover;"><p>0/1</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Bài 437: Youth</h4>
+		<a class="learn" href='/exam/10446'>Học ngay</a>
+			</a>
+</div><div class="box-item">
+	<a href="/exam/10445">
+		<div class="img" style="background:url(/upload/2017/12/47990.png); background-size: cover;"><p>0/1</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Bài 436: Yes</h4>
+		<a class="learn" href='/exam/10445'>Học ngay</a>
+			</a>
+</div><div class="box-item">
+	<a href="/exam/10444">
+		<div class="img" style="background:url(/upload/2017/12/47990.png); background-size: cover;"><p>0/1</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Bài 435: X-Rays</h4>
+		<a class="learn" href='/exam/10444'>Học ngay</a>
+			</a>
+</div>                </div>
+				<div class='paging viewall'><a href="/category/76">Xem tất cả &raquo;</a></div>				<a href="/category/62"><h3 class="sub-header"><i class="fa fa-file-text"></i>&nbsp;&nbsp; Luyện nghe hội thoại tiếng anh <span class="vip">101 BÀI HỘI THOẠI</span></h3></a>
+                <div class="box">
+				<div class="box-item">
+	<a href="/exam/411">
+		<div class="img" style="background:url(/upload/2017/11/28068.png); background-size: cover;"><p>0/5</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Bài 102: </h4>
+		<a class="learn" href='/exam/411'>Học ngay</a>
+			</a>
+</div><div class="box-item">
+	<a href="/exam/410">
+		<div class="img" style="background:url(/upload/2017/11/28068.png); background-size: cover;"><p>0/5</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Bài 101: </h4>
+		<a class="learn" href='/exam/410'>Học ngay</a>
+			</a>
+</div><div class="box-item">
+	<a href="/exam/409">
+		<div class="img" style="background:url(/upload/2017/11/28068.png); background-size: cover;"><p>0/5</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Bài 100: </h4>
+		<a class="learn" href='/exam/409'>Học ngay</a>
+			</a>
+</div><div class="box-item">
+	<a href="/exam/408">
+		<div class="img" style="background:url(/upload/2017/11/28068.png); background-size: cover;"><p>0/5</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Bài 99: </h4>
+		<a class="learn" href='/exam/408'>Học ngay</a>
+			</a>
+</div>                </div>
+				<div class='paging viewall'><a href="/category/62">Xem tất cả &raquo;</a></div>				<a href="/category/75"><h3 class="sub-header"><i class="fa fa-file-text"></i>&nbsp;&nbsp; Luyện nghe hội thoại tiếng anh <span class="vip">301 ĐOẠN VĂN</span></h3></a>
+                <div class="box">
+				<div class="box-item">
+	<a href="/exam/14818">
+		<div class="img" style="background:url(/upload/2017/12/48049.png); background-size: cover;"><p>0/7</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Lesson 32: WRITTEN MUSIC</h4>
+		<a class="learn" href='/exam/14818'>Học ngay</a>
+			</a>
+</div><div class="box-item">
+	<a href="/exam/14817">
+		<div class="img" style="background:url(/upload/2017/12/48049.png); background-size: cover;"><p>0/6</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Lesson 31: WHY I STUDY MUSICOLOGY</h4>
+		<a class="learn" href='/exam/14817'>Học ngay</a>
+			</a>
+</div><div class="box-item">
+	<a href="/exam/14816">
+		<div class="img" style="background:url(/upload/2017/12/48049.png); background-size: cover;"><p>0/6</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Lesson 30: WHITEHEAD'S PROCESS PHILOSOPHY</h4>
+		<a class="learn" href='/exam/14816'>Học ngay</a>
+			</a>
+</div><div class="box-item">
+	<a href="/exam/14815">
+		<div class="img" style="background:url(/upload/2017/12/48049.png); background-size: cover;"><p>0/6</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Lesson 29: WHAT IS MOLECULAR BIOLOGY?</h4>
+		<a class="learn" href='/exam/14815'>Học ngay</a>
+			</a>
+</div>                </div>
+				<div class='paging viewall'><a href="/category/75">Xem tất cả &raquo;</a></div>				
+				
+
+
+            </div>
+			<!-- end đề thi -->	
+			<!-- Đề thi -->
+            <div class="content-box">
+                <div class="header">
+                    <div class="h3-container">
+                        <a href="/category/38"><h3>Tiếng anh qua tin tức</h3></a>                      
+                        <a class="learn-all" href="/category/38">Xem tất cả &raquo;</a>
+                    </div>
+                </div>
+				<a href="/category/38"><h3 class="sub-header"><i class="fa fa-file-text"></i>&nbsp;&nbsp; Tiếng anh qua tin tức <span class="vip">20 Bài</span><span class="vip">ĐANG CẬP NHẬT</span></h3></a>
+                <div class="box">
+				<div class="box-item">
+	<a href="/exam/10126">
+		<div class="img" style="background:url(/upload/2017/11/27868.png); background-size: cover;"><p>0/2</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Drunk car drivers in Vietnam may face fine of over 700 USD</h4>
+		<a class="learn" href='/exam/10126'>Học ngay</a>
+			</a>
+</div><div class="box-item">
+	<a href="/exam/10123">
+		<div class="img" style="background:url(/upload/2017/11/27868.png); background-size: cover;"><p>0/2</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Ho Chi Minh City mulls over limitation of mini trucks in downtown areas</h4>
+		<a class="learn" href='/exam/10123'>Học ngay</a>
+			</a>
+</div><div class="box-item">
+	<a href="/exam/10120">
+		<div class="img" style="background:url(/upload/2017/11/27868.png); background-size: cover;"><p>0/2</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Japan nuclear watchdog approves one more reactor</h4>
+		<a class="learn" href='/exam/10120'>Học ngay</a>
+			</a>
+</div><div class="box-item">
+	<a href="/exam/10117">
+		<div class="img" style="background:url(/upload/2017/11/27868.png); background-size: cover;"><p>0/2</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Unsung Heroes</h4>
+		<a class="learn" href='/exam/10117'>Học ngay</a>
+			</a>
+</div>                </div>
+				<div class='paging viewall'><a href="/category/38">Xem tất cả &raquo;</a></div>				
+            </div>
+			<!-- end đề thi -->	
+			<!-- Đề thi -->
+            <div class="content-box">
+                <div class="header">
+                    <div class="h3-container">
+                        <a href="/category/92"><h3>Luyện Thi TOEIC</h3></a>                      
+                        <a class="learn-all" href="/category/38">Xem tất cả &raquo;</a>
+                    </div>
+                </div>
+				<a href="/category/92"><h3 class="sub-header"><i class="fa fa-file-text"></i>&nbsp;&nbsp; Thi thử TOEIC <span class="vip">20 Đề</span><span class="vip">ĐANG CẬP NHẬT</span></h3></a>
+                <div class="box">
+				<div class="box-item">
+	<a href="/exam/17951">
+		<div class="img" style="background:url(/upload/2018/01/76650.jpg); background-size: cover;"><p>0/100</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Jim�s Toeic 1000:  Test 06 (READING)</h4>
+		<a class="learn" href='/exam/17951'>Học ngay</a>
+			</a>
+</div><div class="box-item">
+	<a href="/exam/17950">
+		<div class="img" style="background:url(/upload/2018/01/76650.jpg); background-size: cover;"><p>0/100</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Jim�s Toeic 1000:  Test 06</h4>
+		<a class="learn" href='/exam/17950'>Học ngay</a>
+			</a>
+</div><div class="box-item">
+	<a href="/exam/17949">
+		<div class="img" style="background:url(/upload/2018/01/76650.jpg); background-size: cover;"><p>0/100</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Jim�s Toeic 1000:  Test 05 (READING)</h4>
+		<a class="learn" href='/exam/17949'>Học ngay</a>
+			</a>
+</div><div class="box-item">
+	<a href="/exam/17948">
+		<div class="img" style="background:url(/upload/2018/01/76650.jpg); background-size: cover;"><p>0/100</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Jim�s Toeic 1000:  Test 05</h4>
+		<a class="learn" href='/exam/17948'>Học ngay</a>
+			</a>
+</div>                </div>
+				<div class='paging viewall'><a href="/category/38">Xem tất cả &raquo;</a></div>				
+            </div>
+			<!-- end đề thi -->	
+			<!-- Đề thi -->
+            <div class="content-box">
+                <div class="header">
+                    <div class="h3-container">
+                        <a href="/category/36"><h3>Đề Thi THPT</h3></a>                      
+                        <a class="learn-all" href="/category/36">Xem tất cả &raquo;</a>
+                    </div>
+                </div>
+				<a href="/category/36"><h3 class="sub-header"><i class="fa fa-file-text"></i>&nbsp;&nbsp; Đề Thi Tiếng Anh Cao Đẳng - Đại Học <span class="vip">48 Đề</span><span class="vip">ĐANG CẬP NHẬT</span></h3></a>
+                <div class="box">
+				<div class="box-item">
+	<a href="/exam/11066">
+		<div class="img" style="background:url(/upload/2018/01/76649.png); background-size: cover;"><p>0/80</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Đề thi ĐH - CĐ số 4: Đề thi Đại học năm 2010 môn Anh văn - khối D</h4>
+		<a class="learn" href='/exam/11066'>Học ngay</a>
+			</a>
+</div><div class="box-item">
+	<a href="/exam/11065">
+		<div class="img" style="background:url(/upload/2018/01/76649.png); background-size: cover;"><p>0/80</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Đề thi ĐH - CĐ số 3: Đề thi Cao đẳng năm 2010 môn Anh văn - khối D</h4>
+		<a class="learn" href='/exam/11065'>Học ngay</a>
+			</a>
+</div><div class="box-item">
+	<a href="/exam/11067">
+		<div class="img" style="background:url(/upload/2018/01/76649.png); background-size: cover;"><p>0/80</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Đề thi ĐH - CĐ số 6: Đề thi Đại học năm 2009 - Môn Anh Văn, khối D.</h4>
+		<a class="learn" href='/exam/11067'>Học ngay</a>
+			</a>
+</div><div class="box-item">
+	<a href="/exam/11068">
+		<div class="img" style="background:url(/upload/2018/01/76649.png); background-size: cover;"><p>0/80</p></div>
+        <div class="meter"><span style="width: 0%"></span></div>		<h4>Đề thi ĐH - CĐ số 9: Đề thi đại học năm 2008 - Môn Anh Văn, khối D</h4>
+		<a class="learn" href='/exam/11068'>Học ngay</a>
+			</a>
+</div>                </div>
+				<div class='paging viewall'><a href="/category/36">Xem tất cả &raquo;</a></div>				
+            </div>
+			<!-- end đề thi -->				
+	         
+        </div>
+        <!-- end content -->
+				<!-- right sidebar -->
+        <div class="sidebar-right">
+		            <div class="sidebar-item login">
+                <div class="login-box">
+                    <a class="login_open_modal" href="#">Đăng nhập</a>
+                    <a href="#" class="login_open_modal">Đăng ký</a>
+                </div>
+               <div class="login-box-body">
+                <form class="form login" id="sidebar-login-form">
+					<div class="form-line">
+						<!--<a href="https://www.facebook.com/v2.4/dialog/oauth?client_id=1081182245235103&amp;state=c4ad57f0a8ea98b38786f06bb32fbc94&amp;response_type=code&amp;sdk=php-sdk-5.0.0&amp;redirect_uri=https%3A%2F%2Fwww.studytienganh.vn%3A443%2Flogin_fb_callback&amp;scope=email&redirect_uri=https://www.studytienganh.vn:443/login_fb_callback" class="social-login facebook"><i class="fa fa-facebook"> </i>Đăng nhập qua Facebook</a>-->
+						<a href="https://accounts.google.com/o/oauth2/auth?access_type=online&approval_prompt=auto&response_type=code&scope=profile%20email&client_id=790559908503-t5psbm1rgfbg8qq45s6cl43v6800igd0.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fwww.studytienganh.vn%2Flogin_google_callback&state" class="social-login google"><i class="fa fa-google-plus"> </i>Đăng nhập qua Google+</a>
+					</div>
+                    <!--<div class="form-line info" id="sidebar-login-info">
+                    </div>
+                    <div class="form-line">
+                        <label for="username">Username:</label>
+                        <input type="text" id="username" name="username" />
+                    </div>
+                    <div class="form-line">
+                        <label for="password">Mật khẩu:</label>
+                        <input type="password" id="password" name="password" />
+                    </div>
+                    <div class="form-line">
+                        <a href="/forgot-password" class="forgot-pass">Quên mật khẩu?</a>
+                        <input type="submit" value="Login" />
+                    </div>
+					-->
+                </form>
+				<script>
+				  $( document ).ready(function () {
+					login_init('sidebar-login-form','sidebar-login-info');
+				  });
+				</script>
+                </div>
+            </div>
+            <div class="sidebar-spacing">&nbsp;</div>
+		            <div class="sidebar-item member">
+                <div class="sidebar-member">
+                    <div class="sidebar-member-number">47856 </div>
+                </div>
+            </div>
+			
+			            <div class="sidebar-spacing">&nbsp;</div>
+            <div class="sidebar-item chatbox">
+                <div class="sidebar-chatbox">
+				<div class='chat-item'>
+						<span class='chat-user'>Thủy Thu</span>
+						<p class='chat-content'>99k bao gồm cả xem phim cả học ạ</p>
+						<p class='chat-time'>2019-03-07 16:29:24</p>
+						<button class='reply-for' reply-for='860' section='question'>Trả lời</button><div class='chat-item-reply'>
+							<span class='chat-user'>admin <span class='vip'>Quản trị viên</span></span>
+							<p class='chat-content'>Phần này chỉ gồm phần trên web studytienganh b nhé.</p>
+							<p class='chat-time'>2019-03-07 16:31:12</p></div></div><div class='chat-item'>
+						<span class='chat-user'>anh nguyễn</span>
+						<p class='chat-content'>nếu học về 12 thì thì e phải học từ thì hiện tại đơn phải k ạ</p>
+						<p class='chat-time'>2019-03-07 16:28:58</p>
+						<button class='reply-for' reply-for='869' section='question'>Trả lời</button><div class='chat-item-reply'>
+							<span class='chat-user'>admin <span class='vip'>Quản trị viên</span></span>
+							<p class='chat-content'>Lớp 12 học khá nhiều thì k chỉ riêng hiện tại đơn b nhé.</p>
+							<p class='chat-time'>2019-03-07 16:31:11</p></div></div><div class='chat-item'>
+						<span class='chat-user'>Lai Phan Xuân</span>
+						<p class='chat-content'>vip trên web hạn dùng bao lâu vậy</p>
+						<p class='chat-time'>2019-03-07 16:28:54</p>
+						<button class='reply-for' reply-for='870' section='question'>Trả lời</button><div class='chat-item-reply'>
+							<span class='chat-user'>admin <span class='vip'>Quản trị viên</span></span>
+							<p class='chat-content'>Dùng trong 1 năm b nhé</p>
+							<p class='chat-time'>2019-03-07 16:31:09</p></div></div><div class='chat-item'>
+						<span class='chat-user'>Ngọc Hảo Đoàn</span>
+						<p class='chat-content'>mình đã nạp vip , vui lòng check giúp mình</p>
+						<p class='chat-time'>2018-11-13 21:29:29</p>
+						<button class='reply-for' reply-for='785' section='question'>Trả lời</button></div><div class='chat-item'>
+						<span class='chat-user'>thu liên vương</span>
+						<p class='chat-content'>cho mk hỏi chi phí học với, mk k rõ <br /></p>
+						<p class='chat-time'>2018-11-13 21:29:26</p>
+						<button class='reply-for' reply-for='787' section='question'>Trả lời</button></div><div class='chat-item'>
+						<span class='chat-user'>Phuong Nguyen</span>
+						<p class='chat-content'>cho mình hỏi mình đang học được 50% trong các thì hiện tại (phần ngữ pháp), giờ mình muốn học lại từ đầu các thì hiện tại thì phải thực hiện thao tác j ạ<br /></p>
+						<p class='chat-time'>2018-08-26 23:43:53</p>
+						<button class='reply-for' reply-for='691' section='question'>Trả lời</button><div class='chat-item-reply'>
+							<span class='chat-user'>Do Thanh</span>
+							<p class='chat-content'>ban co the mua sach tham khao hoac tim thong tin tre mang co rat nhieu video tu hoc do!</p>
+							<p class='chat-time'>2018-09-30 20:26:27</p></div><div class='chat-item-reply'>
+							<span class='chat-user'>admin <span class='vip'>Quản trị viên</span></span>
+							<p class='chat-content'>Chào bạn. Các bài trong phần ngữ pháp bạn nhấp ở thanh bên phải nó có cho chuyển bài nhé.</p>
+							<p class='chat-time'>2018-08-26 23:59:32</p></div></div><div class='chat-item'>
+						<span class='chat-user'>Lai Phan Xuân</span>
+						<p class='chat-content'>Mình đã nạp vip, vui lòng check sớm giúp mình</p>
+						<p class='chat-time'>2018-08-26 23:43:41</p>
+						<button class='reply-for' reply-for='692' section='question'>Trả lời</button><div class='chat-item-reply'>
+							<span class='chat-user'>admin <span class='vip'>Quản trị viên</span></span>
+							<p class='chat-content'>Email này VIP rồi bạn nhé</p>
+							<p class='chat-time'>2018-08-26 23:59:34</p></div></div><div class='chat-item'>
+						<span class='chat-user'>linh pham</span>
+						<p class='chat-content'>chị ơi có dịch vụ cào thẻ điện thoại ko chị </p>
+						<p class='chat-time'>2018-08-16 23:29:50</p>
+						<button class='reply-for' reply-for='665' section='question'>Trả lời</button><div class='chat-item-reply'>
+							<span class='chat-user'>admin <span class='vip'>Quản trị viên</span></span>
+							<p class='chat-content'>Chào bạn. Hiện chỉ có hình thức chuyển khoản b nhé. Hình thức thẻ cào hiện đang bảo trì.</p>
+							<p class='chat-time'>2018-08-16 23:31:02</p></div></div><div class='chat-item'>
+						<span class='chat-user'>Vương Vân Anh</span>
+						<p class='chat-content'>e chỉ cần nạp vip 1 lần r sử dụng luôn dc 2 webside luôn hay sao ad<br /></p>
+						<p class='chat-time'>2018-08-16 23:29:48</p>
+						<button class='reply-for' reply-for='666' section='question'>Trả lời</button><div class='chat-item-reply'>
+							<span class='chat-user'>admin <span class='vip'>Quản trị viên</span></span>
+							<p class='chat-content'>Chào bạn. Các website là riêng biệt bạn nhé</p>
+							<p class='chat-time'>2018-08-16 23:31:01</p></div></div><div class='chat-item'>
+						<span class='chat-user'>Tùng Nguyễn</span>
+						<p class='chat-content'>Em chào anh/ chị ạ.<br />Sáng nay em đã đăng ký vip vào tài khoản của em ở trang web studyphim, vậy nên em muốn hỏi là bao giờ anh chị xác nhận vê việc chuyển khoản và nâng vip cho tài khoản của em ạ<br />em cảm ơn nh ạ<br /></p>
+						<p class='chat-time'>2018-07-20 16:09:01</p>
+						<button class='reply-for' reply-for='581' section='question'>Trả lời</button><div class='chat-item-reply'>
+							<span class='chat-user'>admin <span class='vip'>Quản trị viên</span></span>
+							<p class='chat-content'>Chào bạn. Tài khoản ở studyphim bạn gọi đến số 01677867319 để xác nhận nhé.</p>
+							<p class='chat-time'>2018-07-20 16:10:22</p></div></div><div class='chat-item'>
+						<span class='chat-user'>Vân Anh Đào</span>
+						<p class='chat-content'>sao mình nạp vip rồi mà tk vẫn hiện ko phải vip</p>
+						<p class='chat-time'>2018-07-20 16:08:51</p>
+						<button class='reply-for' reply-for='584' section='question'>Trả lời</button><div class='chat-item-reply'>
+							<span class='chat-user'>admin <span class='vip'>Quản trị viên</span></span>
+							<p class='chat-content'>Mình check thấy tài khoản bạn là VIP rồi nhé. Bạn đăng nhập lại và kiểm  tra giúp mình</p>
+							<p class='chat-time'>2018-07-20 16:10:21</p></div></div><div class='chat-item'>
+						<span class='chat-user'>Chien do</span>
+						<p class='chat-content'>cho e hỏi nếu nap vip thì mình hk đc tất cả các bài trên web đúng ko ạ ?</p>
+						<p class='chat-time'>2018-05-05 13:09:37</p>
+						<button class='reply-for' reply-for='414' section='question'>Trả lời</button><div class='chat-item-reply'>
+							<span class='chat-user'>admin <span class='vip'>Quản trị viên</span></span>
+							<p class='chat-content'>Dạ đúng rồi bạn nhé</p>
+							<p class='chat-time'>2018-05-05 13:10:07</p></div></div><div class='chat-item'>
+						<span class='chat-user'>Phát Bự</span>
+						<p class='chat-content'>phần từ vựng headmistress trong https://www.studytienganh.vn/exam/178 <br />bị sai lỗi dẫn đến phần kiểm tra từ cũng bị sai. Mong ad chỉnh sửa</p>
+						<p class='chat-time'>2018-05-05 13:09:27</p>
+						<button class='reply-for' reply-for='420' section='question'>Trả lời</button><div class='chat-item-reply'>
+							<span class='chat-user'>admin <span class='vip'>Quản trị viên</span></span>
+							<p class='chat-content'>Cảm ơn b đã báo lỗi. Website sẽ kiểm tra lại</p>
+							<p class='chat-time'>2018-05-05 13:10:06</p></div></div><div class='chat-item'>
+						<span class='chat-user'>Trang Nguyễn</span>
+						<p class='chat-content'>e muon dang ky goi vip nhung goi vao so hotline k dk a</p>
+						<p class='chat-time'>2018-05-05 13:02:49</p>
+						<button class='reply-for' reply-for='412' section='question'>Trả lời</button><div class='chat-item-reply'>
+							<span class='chat-user'>admin <span class='vip'>Quản trị viên</span></span>
+							<p class='chat-content'>Chào bạn. Hiện tại số hotline vẫn động bình thường b nhé</p>
+							<p class='chat-time'>2018-05-05 13:09:24</p></div></div><div class='chat-item'>
+						<span class='chat-user'>Trang La</span>
+						<p class='chat-content'>hi anh/chị<br />em đã chuyển khoản và nt vào hotline rồi ạ. anh chị check giùm em với ạ</p>
+						<p class='chat-time'>2018-05-05 13:02:44</p>
+						<button class='reply-for' reply-for='416' section='question'>Trả lời</button></div><div class='chat-item'>
+						<span class='chat-user'>Trung Hiếu</span>
+						<p class='chat-content'>có nạp vip bằng thẻ đt ko ad</p>
+						<p class='chat-time'>2018-05-05 13:02:40</p>
+						<button class='reply-for' reply-for='418' section='question'>Trả lời</button></div><div class='chat-item'>
+						<span class='chat-user'>Hương Ly Nguyễn</span>
+						<p class='chat-content'>Chào ad, bao giờ thì mới đăng kí được bằng thẻ điện thoại ạ? </p>
+						<p class='chat-time'>2018-05-05 13:02:38</p>
+						<button class='reply-for' reply-for='419' section='question'>Trả lời</button><div class='chat-item-reply'>
+							<span class='chat-user'>admin <span class='vip'>Quản trị viên</span></span>
+							<p class='chat-content'>Chào bạn. hiện tại thẻ cào điện thoại nhà mạng ngừng cung cấp rồi bạn nhé</p>
+							<p class='chat-time'>2018-05-05 13:09:23</p></div></div><div class='chat-item'>
+						<span class='chat-user'>Annie Vo</span>
+						<p class='chat-content'>Sao mình không nghe được phát âm vậy ad?</p>
+						<p class='chat-time'>2018-04-17 12:52:13</p>
+						<button class='reply-for' reply-for='403' section='question'>Trả lời</button><div class='chat-item-reply'>
+							<span class='chat-user'>admin <span class='vip'>Quản trị viên</span></span>
+							<p class='chat-content'>Chào bạn. Bạn nhấp vào biểu tượng loa có thể nghe được nhé. Nếu mạng chậm thì nó sẽ bị delay để load âm thanh</p>
+							<p class='chat-time'>2018-04-17 12:53:47</p></div></div><div class='chat-item'>
+						<span class='chat-user'>Dimp</span>
+						<p class='chat-content'>Cho em hỏi là website mình có liên kết với bên studyphim không ạ. em muốn học cả 2 bên nhưng ngặt nỗi còn là học sinh nên không có thẻ ngân hàng nạp cả 2 bên được ạ . em có thể thanh toán cả bên phim với bên này bằng thẻ cào được không ạ </p>
+						<p class='chat-time'>2018-04-17 12:52:05</p>
+						<button class='reply-for' reply-for='406' section='question'>Trả lời</button><div class='chat-item-reply'>
+							<span class='chat-user'>admin <span class='vip'>Quản trị viên</span></span>
+							<p class='chat-content'>Dạ chào bạn. Hình thức thẻ cào nhà mạng hiện tại tạm ngừng cung cấp rồi bạn nhé</p>
+							<p class='chat-time'>2018-04-17 12:53:45</p></div></div><div class='chat-item'>
+						<span class='chat-user'>Minh Ngoc Vu</span>
+						<p class='chat-content'>cho em hỏi đăng kí lên vip thì có nhừng lợi ích gì vậy ạ?</p>
+						<p class='chat-time'>2018-03-28 12:29:11</p>
+						<button class='reply-for' reply-for='355' section='question'>Trả lời</button><div class='chat-item-reply'>
+							<span class='chat-user'>Vũ Thanh Nga</span>
+							<p class='chat-content'>ơ cho e hỏi là hôm đầu tiên e nạp thẻ học đấy 99k chưa phải là thành viên vip ạ. :(<br /></p>
+							<p class='chat-time'>2018-04-17 12:52:08</p></div><div class='chat-item-reply'>
+							<span class='chat-user'>admin <span class='vip'>Quản trị viên</span></span>
+							<p class='chat-content'>Chào bạn. Nếu đăng ký VIP thì được học toàn bộ bài học trên website bạn nhé</p>
+							<p class='chat-time'>2018-03-28 12:31:07</p></div></div><div class='chat-item'>
+						<span class='chat-user'>nguyễn Đình Hồng</span>
+						<p class='chat-content'>sao em nạp bằng thẻ mobifone mà mãi không nạp được ạ</p>
+						<p class='chat-time'>2018-03-28 12:29:08</p>
+						<button class='reply-for' reply-for='352' section='question'>Trả lời</button><div class='chat-item-reply'>
+							<span class='chat-user'>admin <span class='vip'>Quản trị viên</span></span>
+							<p class='chat-content'>Hiện tại kênh thẻ cào đang bảo trì bạn nhé</p>
+							<p class='chat-time'>2018-03-28 12:31:06</p></div></div><div class='chat-item'>
+						<span class='chat-user'>Hai Yen Nguyen</span>
+						<p class='chat-content'>Ad ơi. Ở bên Studyphim mình có đki bằng gmail nhưng gmail đó m quên mật khẩu, vậy vẫn có thể chuyển khoản và nâng cấp đc bt à?</p>
+						<p class='chat-time'>2018-03-28 12:29:04</p>
+						<button class='reply-for' reply-for='347' section='question'>Trả lời</button><div class='chat-item-reply'>
+							<span class='chat-user'>admin <span class='vip'>Quản trị viên</span></span>
+							<p class='chat-content'>Dạ. Anh chi phải nâng cấp VIP vào email nào mà mình có thể đăng nhập được nhé</p>
+							<p class='chat-time'>2018-03-28 12:31:04</p></div></div><div class='chat-item'>
+						<span class='chat-user'>Pham Thang</span>
+						<p class='chat-content'>Đề nghị sửa lỗi chưa tương thích với điện thoại học bị che chữ rất khó chịu. Trên ipad và máy tính chạy ổn.</p>
+						<p class='chat-time'>2018-03-28 11:46:12</p>
+						<button class='reply-for' reply-for='357' section='question'>Trả lời</button><div class='chat-item-reply'>
+							<span class='chat-user'>admin <span class='vip'>Quản trị viên</span></span>
+							<p class='chat-content'>Cảm ơn bạn đã góp ý. Webiste sẽ khắc phục ngay</p>
+							<p class='chat-time'>2018-03-28 12:31:03</p></div></div><div class='chat-item'>
+						<span class='chat-user'>Huyền Đồng</span>
+						<p class='chat-content'>cho e hỏi hiện giờ các bài học đều ở dạng công khai vậy thành viên VIP nạp thẻ có ưu thế gì hơn ạ?</p>
+						<p class='chat-time'>2018-03-28 11:46:10</p>
+						<button class='reply-for' reply-for='358' section='question'>Trả lời</button><div class='chat-item-reply'>
+							<span class='chat-user'>admin <span class='vip'>Quản trị viên</span></span>
+							<p class='chat-content'>Chào bạn. Nếu đăng ký VIP sẽ được học toàn bộ dữ liệu trên website bạn nhé</p>
+							<p class='chat-time'>2018-03-28 12:31:01</p></div></div><div class='chat-item'>
+						<span class='chat-user'>Memories Pham</span>
+						<p class='chat-content'>nên học ở studytienganh trước hay học study phim trước ạ,,,cho e xin lời khuyên với ạ</p>
+						<p class='chat-time'>2018-03-19 16:34:27</p>
+						<button class='reply-for' reply-for='337' section='question'>Trả lời</button><div class='chat-item-reply'>
+							<span class='chat-user'>admin <span class='vip'>Quản trị viên</span></span>
+							<p class='chat-content'>Hi bạn. Nếu bạn chưa có kiến thức cơ bản nên học ở studytienganh để update lại kiến thức nền tảng nhé. Sau đó học trên studyphim sẽ hiệu quả hơn</p>
+							<p class='chat-time'>2018-03-19 16:36:51</p></div></div><div class='chat-item'>
+						<span class='chat-user'>Đại Phong</span>
+						<p class='chat-content'>Mình đã nạp VIP và thấy web rất ổn nhưng thi thoảng vẫn còn vài lỗi nhỏ mong ad chú ý fix lại nhé. </p>
+						<p class='chat-time'>2018-03-19 16:34:25</p>
+						<button class='reply-for' reply-for='338' section='question'>Trả lời</button><div class='chat-item-reply'>
+							<span class='chat-user'>admin <span class='vip'>Quản trị viên</span></span>
+							<p class='chat-content'>Cảm ơn bạn đã góp ý. Website sẽ cố gắng phát triển trong thời gian tới</p>
+							<p class='chat-time'>2018-03-19 16:36:50</p></div></div><div class='chat-item'>
+						<span class='chat-user'>Thuong Nguyen</span>
+						<p class='chat-content'>bao giờ thì mới đăng kí được bằng thẻ điện thoại ạ?<br /></p>
+						<p class='chat-time'>2018-03-19 16:34:22</p>
+						<button class='reply-for' reply-for='339' section='question'>Trả lời</button><div class='chat-item-reply'>
+							<span class='chat-user'>admin <span class='vip'>Quản trị viên</span></span>
+							<p class='chat-content'>Chào bạn. Hiện tại hệ thống nạp thẻ bảo trì trong vòng 1 tuần   b nhé</p>
+							<p class='chat-time'>2018-03-19 16:36:49</p></div></div><div class='chat-item'>
+						<span class='chat-user'>Thoa Vũ</span>
+						<p class='chat-content'>sao e nạp tiền vào tài khoản mà website ghi lỗi nạp thẻ ạ</p>
+						<p class='chat-time'>2018-03-19 16:34:14</p>
+						<button class='reply-for' reply-for='342' section='question'>Trả lời</button><div class='chat-item-reply'>
+							<span class='chat-user'>admin <span class='vip'>Quản trị viên</span></span>
+							<p class='chat-content'>Chào bạn. Hiện tại hệ thống nạp thẻ cào bảo trì trong 1 tuần bạn nhé.</p>
+							<p class='chat-time'>2018-03-19 16:36:47</p></div></div><div class='chat-item'>
+						<span class='chat-user'>Vo Thi Hong Hanh 1650103017</span>
+						<p class='chat-content'>Trang web này thật tuyệt. Nó hầu  như là đầy đủ nhũng thứ cần phải học. Em chỉ mới vừa là thành viên của trang này và chưa lên vip. Cho Em hỏi là có giới hạn thời gian lên vip k? Hay là khi nào e muốn lên Vip cũng đc? Lên Vip 99k Kéo dài trong bao lâu thì hết chương trình khuyến mãi?</p>
+						<p class='chat-time'>2018-03-06 11:04:12</p>
+						<button class='reply-for' reply-for='278' section='question'>Trả lời</button><div class='chat-item-reply'>
+							<span class='chat-user'>admin <span class='vip'>Quản trị viên</span></span>
+							<p class='chat-content'>Dạ. Hiện tại vẫn còn chương trình em nhé. Em cứ học thử nếu thấy hiệu quả hẳn đăng ký VIP nhé</p>
+							<p class='chat-time'>2018-03-06 11:10:49</p></div></div><div class='chat-item'>
+						<span class='chat-user'>Lê Trịnh Như Quỳnh</span>
+						<p class='chat-content'>studytieng anh.vn và studyphim.vn là mua 2 goisvip riêng à ad</p>
+						<p class='chat-time'>2018-03-06 11:04:05</p>
+						<button class='reply-for' reply-for='279' section='question'>Trả lời</button><div class='chat-item-reply'>
+							<span class='chat-user'>admin <span class='vip'>Quản trị viên</span></span>
+							<p class='chat-content'>Đúng rồi em nhé.</p>
+							<p class='chat-time'>2018-03-06 11:10:48</p></div></div>				</div>
+            </div>
+            <div class="sidebar-spacing">&nbsp;</div>
+            <div class="sidebar-item vip-box">
+                <div class="header">
+                </div>
+                <div class="content-body">
+                <div class="vip-box-body">
+                <div><img src='/upload/avatars/88fd0b037cf91bda57fcddd9054ab206' width='30' height='30' /><div>Linh Nguyen</div><span class='vip'>VIP</span></div><div><img src='/upload/avatars/5f378295610ba09bf517e4ae7538f265' width='30' height='30' /><div>29. Nguyễn Tiến Dũng</div><span class='vip'>VIP</span></div><div><img src='/upload/avatars/93a25deded65a6eec44248c015666219' width='30' height='30' /><div>Ngocmy Tran</div><span class='vip'>VIP</span></div><div><img src='/upload/avatars/5a10d30220f9293c277a67963bb10d69' width='30' height='30' /><div>vo van nhan</div><span class='vip'>VIP</span></div><div><img src='/upload/avatars/973d8ce8b8d34b7b0d2ff239b5d74283' width='30' height='30' /><div>LE BAO TOAN</div><span class='vip'>VIP</span></div>                </div>
+                </div>
+            </div>
+            <div class="sidebar-spacing">&nbsp;</div>
+            <div class="sidebar-item news">
+                <div class="news-body tabs">
+                <ul>
+                    <li><a href="#tabs-1">Tất cả</a></li>
+                    <li><a href="#tabs-2">Blog</a></li>
+                    <li><a href="#tabs-3">Tin Tức</a></li>
+                    <li><a href="#tabs-4">Bài Giảng</a></li>
+                  </ul>
+                  <div id="tabs-1">
+                  <div class='row'><div class='icon'><i class='fa fa-circle'></i></div><div class='title'><a href='/news/6013/tong-hop-nhung-cau-noi-hay-va-y-nghia-nhat-ve-su-co-gang'>Tổng hợp những câu nói hay và ý nghĩa nhất về sự cố gắng</a></div><div class='date'>13/03/2022</div></div><div class='row'><div class='icon'><i class='fa fa-circle'></i></div><div class='title'><a href='/news/6012/suu-tam-100-nhung-cau-noi-khinh-bi-hay-nhat'>[Sưu tầm] 100+ Những câu nói khinh bỉ hay nhất</a></div><div class='date'>13/03/2022</div></div><div class='row'><div class='icon'><i class='fa fa-circle'></i></div><div class='title'><a href='/news/6011/suu-tam-100-nhung-cau-noi-mia-mai-nguoi-khac'>[Sưu tầm] 100+ Những câu nói mỉa mai người khác</a></div><div class='date'>13/03/2022</div></div><div class='row'><div class='icon'><i class='fa fa-circle'></i></div><div class='title'><a href='/news/6010/suu-tam-100-nhung-cau-noi-hay-ve-cha-me'>[Sưu tầm] 100+ Những câu nói hay về cha mẹ</a></div><div class='date'>13/03/2022</div></div><div class='row'><div class='icon'><i class='fa fa-circle'></i></div><div class='title'><a href='/news/6009/suu-tam-100-nhung-stt-hay-nhat-ve-con-gai-doc-than'>[Sưu tầm] 100+ Những Stt hay nhất về con gái độc thân</a></div><div class='date'>13/03/2022</div></div><div class='row'><div class='icon'><i class='fa fa-circle'></i></div><div class='title'><a href='/news/6008/suu-tam-100-nhung-stt-hay-ve-cuoc-song'>[Sưu tầm] 100+ Những Stt hay về cuộc sống</a></div><div class='date'>13/03/2022</div></div><div class='row'><div class='icon'><i class='fa fa-circle'></i></div><div class='title'><a href='/news/6007/tong-hop-nhung-caption-hay-va-y-nghia-ve-cuoc-song'>Tổng hợp những Caption hay và ý nghĩa về cuộc sống</a></div><div class='date'>13/03/2022</div></div><div class='row'><div class='icon'><i class='fa fa-circle'></i></div><div class='title'><a href='/news/6006/suu-tam-100-cau-tha-thinh-bang-tieng-anh-hay-nhat-dung-lam-status'>[Sưu Tầm] 100+ Câu thả thính bằng tiếng Anh hay nhất dùng làm Status</a></div><div class='date'>13/03/2022</div></div><div class='row'><div class='icon'><i class='fa fa-circle'></i></div><div class='title'><a href='/news/6005/tong-hop-nhung-cau-chuc-mung-sinh-nhat-chi-gai-y-nghia'>Tổng hợp những câu chúc mừng sinh nhật chị gái ý nghĩa</a></div><div class='date'>12/03/2022</div></div><div class='row'><div class='icon'><i class='fa fa-circle'></i></div><div class='title'><a href='/news/6004/suu-tam-100-thong-diep-chao-ngay-moi-tran-day-nang-luong'>[Sưu Tầm] 100+ Thông điệp chào ngày mới tràn đầy năng lượng </a></div><div class='date'>12/03/2022</div></div>                  </div>
+                  <div id="tabs-2">
+                  <div class='row'><div class='icon'><i class='fa fa-circle'></i></div><div class='title'><a href='/news/6009/suu-tam-100-nhung-stt-hay-nhat-ve-con-gai-doc-than'>[Sưu tầm] 100+ Những Stt hay nhất về con gái độc thân</a></div><div class='date'>13/03/2022</div></div><div class='row'><div class='icon'><i class='fa fa-circle'></i></div><div class='title'><a href='/news/6008/suu-tam-100-nhung-stt-hay-ve-cuoc-song'>[Sưu tầm] 100+ Những Stt hay về cuộc sống</a></div><div class='date'>13/03/2022</div></div><div class='row'><div class='icon'><i class='fa fa-circle'></i></div><div class='title'><a href='/news/5997/ban-thuong-vu-la-gi'>Ban thường vụ là gì? Tất tần tật những điều cần biết về Ban thường vụ</a></div><div class='date'>12/03/2022</div></div><div class='row'><div class='icon'><i class='fa fa-circle'></i></div><div class='title'><a href='/news/5996/ch3cooh-la-chat-gi'>Bạn có biết axit axetic CH3COOH là chất gì chưa?</a></div><div class='date'>12/03/2022</div></div><div class='row'><div class='icon'><i class='fa fa-circle'></i></div><div class='title'><a href='/news/5995/chi-google-la-ai'>Chị Google là ai? Hé lộ chân dung người lồng tiếng chị Google.  </a></div><div class='date'>12/03/2022</div></div><div class='row'><div class='icon'><i class='fa fa-circle'></i></div><div class='title'><a href='/news/5994/duong-do-la-gi'>Đường đỏ là gì? Các vấn đề liên quan đến đường đỏ.</a></div><div class='date'>12/03/2022</div></div><div class='row'><div class='icon'><i class='fa fa-circle'></i></div><div class='title'><a href='/news/5993/free-fire-nghia-tieng-viet-la-gi'>Bạn có biết Free Fire nghĩa tiếng Việt là gì? Liệu bạn có hiểu đúng nghĩa?</a></div><div class='date'>12/03/2022</div></div><div class='row'><div class='icon'><i class='fa fa-circle'></i></div><div class='title'><a href='/news/5992/pha-la-gi-tren-facebook'>Góc giải đáp: nhận phả là gì trên facebook?</a></div><div class='date'>12/03/2022</div></div><div class='row'><div class='icon'><i class='fa fa-circle'></i></div><div class='title'><a href='/news/5991/co-nen-de-binh-ruou-ran-trong-nha'>Chuyện phong thủy: Có nên để bình rượu rắn trong nhà không?</a></div><div class='date'>12/03/2022</div></div><div class='row'><div class='icon'><i class='fa fa-circle'></i></div><div class='title'><a href='/news/5990/hinh-xam-cho-soi-hop-voi-tuoi-nao'>Hình xăm chó sói hợp với tuổi nào nhất?</a></div><div class='date'>12/03/2022</div></div>                  </div>
+                  <div id="tabs-3">
+                  <div class='row'><div class='icon'><i class='fa fa-circle'></i></div><div class='title'><a href='/news/6013/tong-hop-nhung-cau-noi-hay-va-y-nghia-nhat-ve-su-co-gang'>Tổng hợp những câu nói hay và ý nghĩa nhất về sự cố gắng</a></div><div class='date'>13/03/2022</div></div><div class='row'><div class='icon'><i class='fa fa-circle'></i></div><div class='title'><a href='/news/6012/suu-tam-100-nhung-cau-noi-khinh-bi-hay-nhat'>[Sưu tầm] 100+ Những câu nói khinh bỉ hay nhất</a></div><div class='date'>13/03/2022</div></div><div class='row'><div class='icon'><i class='fa fa-circle'></i></div><div class='title'><a href='/news/6011/suu-tam-100-nhung-cau-noi-mia-mai-nguoi-khac'>[Sưu tầm] 100+ Những câu nói mỉa mai người khác</a></div><div class='date'>13/03/2022</div></div><div class='row'><div class='icon'><i class='fa fa-circle'></i></div><div class='title'><a href='/news/6010/suu-tam-100-nhung-cau-noi-hay-ve-cha-me'>[Sưu tầm] 100+ Những câu nói hay về cha mẹ</a></div><div class='date'>13/03/2022</div></div><div class='row'><div class='icon'><i class='fa fa-circle'></i></div><div class='title'><a href='/news/6007/tong-hop-nhung-caption-hay-va-y-nghia-ve-cuoc-song'>Tổng hợp những Caption hay và ý nghĩa về cuộc sống</a></div><div class='date'>13/03/2022</div></div><div class='row'><div class='icon'><i class='fa fa-circle'></i></div><div class='title'><a href='/news/6006/suu-tam-100-cau-tha-thinh-bang-tieng-anh-hay-nhat-dung-lam-status'>[Sưu Tầm] 100+ Câu thả thính bằng tiếng Anh hay nhất dùng làm Status</a></div><div class='date'>13/03/2022</div></div><div class='row'><div class='icon'><i class='fa fa-circle'></i></div><div class='title'><a href='/news/6005/tong-hop-nhung-cau-chuc-mung-sinh-nhat-chi-gai-y-nghia'>Tổng hợp những câu chúc mừng sinh nhật chị gái ý nghĩa</a></div><div class='date'>12/03/2022</div></div><div class='row'><div class='icon'><i class='fa fa-circle'></i></div><div class='title'><a href='/news/6004/suu-tam-100-thong-diep-chao-ngay-moi-tran-day-nang-luong'>[Sưu Tầm] 100+ Thông điệp chào ngày mới tràn đầy năng lượng </a></div><div class='date'>12/03/2022</div></div><div class='row'><div class='icon'><i class='fa fa-circle'></i></div><div class='title'><a href='/news/6003/nguyen-tu-dong-vi-ly-thuyet-cong-thuc-andamp-bai-tap'>Nguyên tử Đồng Vị: Lý thuyết, Công Thức &amp; Bài Tập</a></div><div class='date'>12/03/2022</div></div><div class='row'><div class='icon'><i class='fa fa-circle'></i></div><div class='title'><a href='/news/6002/top-30-bai-van-thuyet-minh-ve-cay-but-bi-van-mau-lop-8-hay-nhat'>Top 30 bài văn Thuyết Minh Về Cây Bút Bi văn mẫu lớp 8 hay nhất</a></div><div class='date'>12/03/2022</div></div>                  </div>
+                  <div id="tabs-4">
+                                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- end right sidebar -->    </div>
+    <div class="full-width green-bg footer-container">
+        <div class="width footer">
+            <div class="logo"></div>
+            <div class="copyright">
+                Copyright &copy 2017<br />
+				
+                
+            </div>
+			
+            <div class="icons">
+            <ul>
+                <li><a href="/page/1/gioi-thieu-tinh-nang-tren-website-studytienganhvn">Giới thiệu</a></li>
+                <li><a href="/page/7/privacy-policy">Điều khoản</a></li>
+                <li><a href="#">FAQs</a></li>
+                <li><a href="#">Liên hệ</a></li>
+				<li><a href="#" class="login_open_modal">Đăng nhập</a></li>
+                <!--<li><a href="#" class="reg_open_modal">Đăng ký</a></li>-->
+                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                <li><a href="#"><i class="fa fa-youtube"></i></a></li>
+            </ul>
+            </div>
+        </div>
+    </div>
+    <div id="modal_login" class="modal">
+    <div class="modal-body">
+	<form method="POST" action="" class="form-modal" id="login-form">
+		<div class="row header">
+			<div class="header-label ">Đăng nhập</div> <hr>
+		</div>
+				<div class="row">
+			<span class="label"></span>
+			<a href="https://accounts.google.com/o/oauth2/auth?access_type=online&approval_prompt=auto&response_type=code&scope=profile%20email&client_id=790559908503-t5psbm1rgfbg8qq45s6cl43v6800igd0.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fwww.studytienganh.vn%2Flogin_google_callback&state" class="social-login google" style="width: 65%;"><i class="fa fa-google-plus"> </i>Đăng nhập qua Google+</a>
+			<br><p style="float: right;"><i>Click để đăng nhập thông qua tài khoản gmail của bạn</i></p>
+		</div>
+		<!--<div class="row">
+			<span class="label"></span>
+			<a href="https://www.facebook.com/v2.4/dialog/oauth?client_id=1081182245235103&amp;state=c4ad57f0a8ea98b38786f06bb32fbc94&amp;response_type=code&amp;sdk=php-sdk-5.0.0&amp;redirect_uri=https%3A%2F%2Fwww.studytienganh.vn%3A443%2Flogin_fb_callback&amp;scope=email&redirect_uri=https://www.studytienganh.vn:443/login_fb_callback" class="social-login facebook"><i class="fa fa-facebook"> </i>Đăng nhập qua Facebook</a>
+			<a href="https://accounts.google.com/o/oauth2/auth?access_type=online&approval_prompt=auto&response_type=code&scope=profile%20email&client_id=790559908503-t5psbm1rgfbg8qq45s6cl43v6800igd0.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fwww.studytienganh.vn%2Flogin_google_callback&state" class="social-login google"><i class="fa fa-google-plus"> </i>Đăng nhập qua Google+</a>
+		</div>-->
+	</form>
+	<script>
+	  $( document ).ready(function () {
+		login_init('login-form','login-info');
+	  });
+	</script>
+    </div>
+</div>    <div id="modal_reg" class="modal">
+    <div class="modal-body">
+	<form method="POST" action="" class="form-modal" enctype="multipart/form-data" id="reg-form">
+		<div class="row header">
+			<div class="header-label reader-icon">Đăng ký</div>
+		</div>
+		<div class="row">
+			<div class="info" id="reg-info"></div>
+		</div>
+		<div class="row">
+			<span class="label">Họ và tên <span class="red">*</span>:</span>
+			<input type="text" value="" name="info[name]" class="form-control" />
+		</div>
+		<div class="row">
+			<span class="label">Email <span class="red">*</span>:</span>
+			<input type="text" value="" name="email" class="form-control" />
+		</div>
+		<div class="row">
+			<span class="label">Mật khẩu <span class="red">*</span>:</span>
+			<input type="password" value="" name="password" class="form-control" />
+		</div>
+		<div class="row">
+			<span class="label">Xác nhận <span class="red">*</span>:</span>
+			<input type="password" value="" name="password_confirm" class="form-control" />
+		</div>
+		<div class="row">
+			<span class="label">Số ĐT:</span>
+			<input type="text" value="" name="info[phone]" class="form-control" />
+		</div>
+		<div class="row">
+			<span class="label">&nbsp;</span>
+			<div class="form-control"><input type="checkbox" name="accept" class="" value="1" /> Đã đọc và chấp nhận <a href="#" target="_blank">các điều khoản</a></div>
+		</div>
+		<div class="row">
+			<span class="label"></span>
+			<input type="submit" class="green-button" value="Đăng ký" />
+		</div>
+		<div class="row">
+			<span class="label"></span>
+			<!--<a href="https://www.facebook.com/v2.4/dialog/oauth?client_id=1081182245235103&amp;state=c4ad57f0a8ea98b38786f06bb32fbc94&amp;response_type=code&amp;sdk=php-sdk-5.0.0&amp;redirect_uri=https%3A%2F%2Fwww.studytienganh.vn%3A443%2Flogin_fb_callback&amp;scope=email&redirect_uri=https://www.studytienganh.vn:443/login_fb_callback" class="social-login facebook"><i class="fa fa-facebook"> </i>Đăng nhập qua Facebook</a>-->
+			<a href="https://accounts.google.com/o/oauth2/auth?access_type=online&approval_prompt=auto&response_type=code&scope=profile%20email&client_id=790559908503-t5psbm1rgfbg8qq45s6cl43v6800igd0.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fwww.studytienganh.vn%2Flogin_google_callback&state" class="social-login google"><i class="fa fa-google-plus"> </i>Đăng nhập qua Google+</a>
+		</div>
+	</form>
+	<script>
+	  $( document ).ready(function () {
+		reg_init('reg-form','reg-info');
+	  });
+	</script>
+    </div>
+</div>
+<!--<div id="modal_reg_success" class="modal">
+    <div class="modal-body">
+		<div class="form-modal">
+			<div class="row header">
+				<div class="header-label reader-icon">Đăng ký</div>
+			</div>
+			<div class="row">
+				<div class="info"><span class="green">Bạn đã đăng ký thành công, vui lòng xác nhận email và đăng nhập để có thể sử dụng trang web!</span></div>
+			</div>
+		</div>
+	</div>
+</div>-->    <div id="modal-reply-for" class="modal">
+    <div class="modal-body">
+		<div class="form-modal">
+			<div class="row header">
+				<div class="header-label reader-icon">Trả lời</div>
+			</div>
+			<form method="POST" action="" class="form-modal new_comment" id="reply-form">
+			<input type="hidden" name="section" value="">
+			<input type="hidden" name="reply_for" value="">
+			<div class="row">
+				<span class="label">Nội dung:</span>
+				<textarea name="content" class="form-control" placeholder="Nhập nội dung trả lời của bạn"></textarea>
+			</div>
+			<div class="row">
+				<span class="label">&nbsp;</span>
+				<input type="submit" class="green-button" value="Gửi" />
+			</div>
+			</form>
+		</div>
+	</div>
+</div></body>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110536011-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-110536011-1');
+</script>
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '2238019159655309');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=2238019159655309&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+</html>
